@@ -1,7 +1,7 @@
 Let's start by adding a build step after installing our dependencies and before running our test.
 
 Building the application is a verification step in-and-of itself since we're using TypeScript. (I'll leave it as an exercise to the reader if you want to run some other type checker like `tsc`, but this gets the jobs done.)
-
+ -- test comment
 ```yml
 name: Unit Tests
 
